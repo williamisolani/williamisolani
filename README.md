@@ -1,5 +1,5 @@
-# 💫 About Me:
-Olá!<br><br>Me chamo William Isolani e sou um Desenvolvedor Web apaixonado por usar a tecnologia e programação para desenvolver soluções inovadoras e solucionar desafios que surgem.
+# Olá, me chamo William Isolani
+Sou um Desenvolvedor Web apaixonado por usar a tecnologia e programação para desenvolver soluções inovadoras e solucionar desafios que surgem.
 <br><br>
 Ao longo da minha trajetória, adquiri uma sólida experiência e conhecimento em React, JavaScript, HTML, CSS, WordPress, Bootstrap/Uikit, Git e MySQL. Além disso, possuo habilidades também em Python e PHP. 
 <br><br>
