@@ -10,7 +10,7 @@ Especialista no desenvolvimento de Landing Pages e sites institucionais focados 
 
 - 🚀 Especialista em transformar ideias em código limpo e componentes reutilizáveis.
 - 🛠️ Foco em performance (Web Vitals) e arquitetura escalável.
-- 🎓 Cursando Gestão de Projetos e Análise e Desenvolvimento de Sistemas.
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas.
 - 🌐 Fluente em Português e Inglês.
 
 ---
